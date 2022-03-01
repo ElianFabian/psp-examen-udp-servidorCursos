@@ -8,6 +8,6 @@ Se trata de un servidor que gestiona cursos y alumnos, puedes añadir cursos, al
 
 Para poder usar el programa como cliente hay que hacer uso de un comando de linux como este:
 
-echo -n mensaje | nc -w1 -u localhost puerto
+echo -n $mensaje | nc -w1 -u localhost $puerto
 
-ejemplo: echo -n ""@nuevocur#programación@" | nc -w1 -u localhost 7600
+ejemplo: echo -n "@nuevocur#programación@" | nc -w1 -u localhost 7600
