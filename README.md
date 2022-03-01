@@ -4,7 +4,7 @@ Examen de UDP del módulo PSP en IES Portada Alta.
 
 Se trata de un servidor que gestiona cursos y alumnos, puedes añadir cursos, alumnos y matricular a los alumnos.
 
-Para poder usar el programa como cliente hay que hacer uso de un comando como este:
+Para poder usar el programa como cliente hay que hacer uso de un comando de linux como este:
 
 echo -n mensaje | nc -w1 -u localhost puerto
 
