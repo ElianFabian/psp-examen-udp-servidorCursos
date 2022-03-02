@@ -1,4 +1,4 @@
-# psp-exmaen-udp-servidorCursos
+# psp-examen-udp-servidorCursos
 
 Examen del 2º trimestre de UDP del módulo PSP de 2º GS DAM en IES Portada Alta.
 
