@@ -11,5 +11,5 @@ Para poder usar el programa como cliente hay que hacer uso de un comando de linu
 ```
 echo -n $mensaje | nc -w1 -u localhost $puerto
 
-ejemplo: echo -n "@nuevocur#programación@" | nc -w1 -u localhost 7600
+Ejemplo: echo -n "@nuevocur#programación@" | nc -w1 -u localhost 7600
 ```
